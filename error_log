@@ -1,0 +1,2 @@
+[30-Dec-2021 01:41:13 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 1067454464 bytes) in /home/coinbuic/app.loftycede.org/core/app/Http/Controllers/UserController.php on line 57
+[23-May-2022 12:47:19 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/coinelavate/public_html/core/vendor/composer/platform_check.php on line 24
